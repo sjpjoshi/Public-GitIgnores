@@ -10,6 +10,9 @@ Welcome to the Public `.gitignore` Files Repository. This repository contains `.
 - **IntelliJ IDEA**
 - **Unity**
 - **Unreal Engine**
+- **C**
+- **C++**
+- **C#**
 
 ## How to Use
 
