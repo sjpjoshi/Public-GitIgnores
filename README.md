@@ -18,6 +18,8 @@ Welcome to the Public `.gitignore` Files Repository. This repository contains `.
 - **WebGL**
 - **WebGPU**
 - **OpenXR**
+- **Meson**
+- **Nix**
 
 ## How to Use
 
