@@ -1,0 +1,57 @@
+# Ignore build directories
+/build
+/Build
+/bin
+/obj
+/out
+/Debug
+/Release
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore object files
+*.o
+
+# Ignore static library files
+*.a
+
+# Ignore precompiled headers
+*.gch
+*.pch
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+desktop.ini
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore C test and debugging artifacts
+*.gcno
+*.gcda
+*.gcov
+
+# Ignore other common files
+*.swp
+*.swo
+*.bak
+*.old

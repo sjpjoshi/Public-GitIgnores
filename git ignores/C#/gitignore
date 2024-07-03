@@ -1,0 +1,102 @@
+# Ignore Visual Studio files
+.vs/
+/.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore build directories
+/bin/
+/obj/
+/*.dll
+/*.exe
+/*.pdb
+/*.log
+
+# Ignore NuGet packages
+/packages/
+
+# Ignore build output
+[Dd]ebug/
+[Rr]elease/
+
+# Ignore Visual Studio generated files
+*.cache
+*.vspscc
+*.vsp
+*.pidb
+*.userprefs
+*.bak
+*.vspx
+*.psess
+*.vssscc
+*.vswp
+*.vspscc
+
+# Ignore .NET Core and .NET Standard artifacts
+project.lock.json
+project.fragment.lock.json
+*.dotnetcli
+
+# Ignore Roslyn analysis files
+*.editorconfig
+
+# Ignore Resharper files
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Ignore Rider files
+.idea/
+
+# Ignore Unity3D generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+
+# Ignore Rider generated files
+.idea/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore log files
+*.log
+
+# Ignore npm package files
+node_modules/
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore F# interactive files
+.fsxbin/
+.fsxobj/
+
+# Ignore Xamarin files
+packages/
+
+# Ignore Mono generated files
+*.userprefs
+
+# Ignore .NET Core files
+*.csproj.user
+*.xproj
+*.xproj.user
+
+# Ignore Rider files
+.idea/
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore dotCover files
+*.dotCover
+
+# Ignore TeamCity files
+.vspscc
