@@ -1,0 +1,22 @@
+# Ignore Meson build directories
+/meson-out
+/meson-logs
+
+# Ignore Meson generated files
+/meson.build
+/meson_options.txt
+/meson-private/
+
+# Ignore Ninja build files
+/build.ninja
+/build-*/
+
+# Ignore compiled binaries and artifacts
+/*.so
+/*.dll
+/*.exe
+/*.out
+/*.a
+
+# Ignore Meson cache files
+meson-*/.cache
