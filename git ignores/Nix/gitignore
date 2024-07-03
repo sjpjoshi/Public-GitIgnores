@@ -1,0 +1,11 @@
+# Ignore Nix result and garbage files
+*.drv
+*.drv-*  # derivative files
+*.log   # build logs
+*.bz2   # binary cache files
+*.nar   # binary cache files
+*.narinfo  # binary cache metadata
+*.narinfo-*  # binary cache metadata
+*.sqlite  # Nix database
+result
+result-*
