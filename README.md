@@ -13,6 +13,11 @@ Welcome to the Public `.gitignore` Files Repository. This repository contains `.
 - **C**
 - **C++**
 - **C#**
+- **OpenGL**
+- **Vulkan**
+- **WebGL**
+- **WebGPU**
+- **OpenXR**
 
 ## How to Use
 
